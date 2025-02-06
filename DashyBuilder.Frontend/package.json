@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/icon": "^1.4.5",
+    "@nuxt/icon": "^1.10.3",
     "@pinia/nuxt": "^0.5.2",
     "@vueuse/core": "^10.11.0",
     "gridstack": "^10.3.1",
